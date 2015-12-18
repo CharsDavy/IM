@@ -25,11 +25,11 @@ screenshots
 &nbsp;&nbsp;
 <img alt="one" src="https://raw.github.com/charsdavy/IM-Chat/master/screenshots/c4.png" width="180">
 &nbsp;&nbsp;
-<img alt="one" src="https://raw.github.com/charsdavy/IM-Chat/master/screenshots/c5.png" width="180">
-&nbsp;&nbsp;
 <img alt="one" src="https://raw.github.com/charsdavy/IM-Chat/master/screenshots/c6.png" width="180">
 &nbsp;&nbsp;
 <img alt="one" src="https://raw.github.com/charsdavy/IM-Chat/master/screenshots/c7.png" width="180">
+&nbsp;&nbsp;
+<img alt="one" src="https://raw.github.com/charsdavy/IM-Chat/master/screenshots/c5.png" width="180">
 &nbsp;&nbsp;
 
 #Blog
